@@ -4,7 +4,7 @@ import {Jumbo} from './jumbo.jsx';
 import {Portfolio} from './portfolio.jsx';
 import {TheFooter} from './footer.jsx';
 
-//create your first component
+//Main view component
 export class Home extends React.Component{
     
     render(){

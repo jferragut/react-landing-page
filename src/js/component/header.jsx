@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 export const TheHeader = (props) => {
     let menuList=[
             { name: "Home", url: "/"},
+            { name: "Products", url: "/products"},
             { name: "About", url: "/about"},
             { name: "Services", url: "/services"},
             { name: "Contact", url: "/contact"}
